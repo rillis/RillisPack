@@ -1,0 +1,13 @@
+// For more info visit https://faq.ftb.world/books/ftb-utilities/page/ranks
+
+// FakeForgePlayer
+[069be1413c1b45c3b3b160d3f9fcd236]
+parent: vip
+example.permission_with_value: 150
+
+// rillis
+[2856c473907a471397c3c455bbea9241]
+ftbutilities.homes.warmup: 0
+ftbutilities.homes.max: 100
+ftbutilities.homes.cooldown: 0
+max_homes: 100
