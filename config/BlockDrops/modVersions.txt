@@ -98,6 +98,7 @@
   "buildcraftcore": "7.99.24.8",
   "tp": "3.2.34",
   "aroma1997sdimension": "2.0.0.2",
+  "danknull": "1.7.91",
   "baubleshud": "5.0.2",
   "ae2wtlib": "1.0.34",
   "cucumber": "1.1.3",
